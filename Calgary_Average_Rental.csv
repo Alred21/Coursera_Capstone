@@ -1,35 +1,35 @@
-﻿Neighborhood,Average_Renting_Price
-"Rundle, Whitehorn, Monterey Park",1273
-"Penbrooke Meadows, Marlborough",1258
-"Forest Lawn, Dover, Erin Woods",1192
-"Lynnwood Ridge, Ogden, Foothills Industrial, Great Plains",1348
-"Bridgeland, Greenview, Zoo, YYC",988
-"Inglewood, Burnsland, Chinatown, East Victoria Park, Saddledome",1352
-"Highfield, Burns Industrial",1215
-"Queensland, Lake Bonavista, Willow Park, Acadia",1401
-"Thorncliffe, Tuxedo Park",1172
-"Brentwood, Collingwood, Nose Hill",1099
-"Mount Pleasant, Capitol Hill, Banff Trail",1170
-"Kensington, Westmont, Parkdale, University",1157
-"City Centre, Calgary Tower",1469
-"Connaught, West Victoria Park",1507
-"Elbow Park, Britannia, Parkhill, Mission",1265
-South Calgary (Altadore / Bankview / Richmond),1175
-"Oak Ridge, Haysboro, Kingsland, Kelvin Grove, Windsor Park",1134
-"Braeside, Cedarbrae, Woodbine",1326
-"Midnapore, Sundance",1351
-"Millrise, Somerset, Bridlewood, Evergreen",1326
-"Douglas Glen, McKenzie Lake, Copperfield, East Shepard",1348
-"Dalhousie, Edgemont, Hamptons, Hidden Valley",1073
-"Montgomery, Bowness, Silver Springs, Greenwood",1442
-"Rosscarrock, Westgate, Wildwood, Shaganappi, Sunalta",1224
-"Lakeview, Glendale, Killarney, Glamorgan",1158
-"Hawkwood, Arbour Lake, Citadel, Ranchlands, Royal Oak, Rocky Ridge",1090
-"Discovery Ridge, Signal Hill, West Springs, Christie Estates, Patterson, Cougar Ridge",1158
-"Martindale, Taradale, Falconridge, Saddle Ridge",660
-"Sandstone, MacEwan Glen, Beddington, Harvest Hills, Coventry Hills, Panorama Hills",1054
-"Tuscany, Scenic Acres",1045
-"Cranston, Auburn Bay, Mahogany",1550
-Northeast Calgary,1258
-Symons Valley,1042
-Northwest Calgary,1027
+﻿PostalCode,Average_Renting_Price
+T1Y,1273
+T2A,1258
+T2B,1192
+T2C,1348
+T2E,988
+T2G,1352
+T2H,1215
+T2J,1401
+T2K,1172
+T2L,1099
+T2M,1170
+T2N,1157
+T2P,1469
+T2R,1507
+T2S,1265
+T2T,1175
+T2V,1134
+T2W,1326
+T2X,1351
+T2Y,1326
+T2Z,1348
+T3A,1073
+T3B,1442
+T3C,1224
+T3E,1158
+T3G,1090
+T3H,1158
+T3J,660
+T3K,1054
+T3L,1045
+T3M,1550
+T3N,1258
+T3P,1042
+T3R,1027
